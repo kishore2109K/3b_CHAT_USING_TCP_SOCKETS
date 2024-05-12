@@ -2,7 +2,7 @@
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 
-## NAME : KISHORE K
+# NAME : KISHORE K
 # REGISTER NAME : 212223040101
 ## ALGORITHM:
 1. Import the necessary modules in python
